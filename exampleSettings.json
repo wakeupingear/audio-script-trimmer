@@ -1,0 +1,16 @@
+{
+    "names": [
+        "LAUREN",
+        "DJAY"
+    ],
+    "excludeWords": [
+        "CONTD"
+    ],
+    "models": {
+        "full": "models/vosk-model-en-us-0.22"
+    },
+    "defaultModel": "small",
+    "scripts": [
+        "scripts/Act1.pdf"
+    ]
+}

@@ -1,0 +1,7 @@
+models/*
+audio/
+output/
+
+__pycache__/
+
+settings.json
